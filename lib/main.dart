@@ -219,7 +219,7 @@ class listOfItems extends StatelessWidget {
                   Container(
                     margin: const EdgeInsets.symmetric(horizontal: 10),
                     child: const Icon(
-                      Icons.screen_lock_landscape,
+                      Icons.smart_screen_rounded,
                       size: 50,)
                   ),
                   Container(
