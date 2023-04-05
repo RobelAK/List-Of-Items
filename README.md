@@ -1,4 +1,4 @@
-# assignment_1
+# Lof items with dart
 
 A new Flutter project.
 
