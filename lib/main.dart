@@ -9,9 +9,10 @@ class listOfItems extends StatelessWidget {
       title: "List of items",
       home: Scaffold(
         appBar: AppBar(
-          title: Text("{ }  List of items"),
+          leading: const Icon(Icons.data_object),
+          title: const Text("List of items"), 
           actions:  const <Widget>[
-            Icon(Icons.more_vert),
+            Icon(Icons.more_vert), 
           ],
         ),
         body: Column(
