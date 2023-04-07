@@ -6,6 +6,7 @@ class listOfItems extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: "List of items",
       home: Scaffold(
         appBar: AppBar(
